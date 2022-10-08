@@ -24,6 +24,7 @@
 - [Chirag Chakraborty](https://github.com/noobchirag69)
 - [Aman Sharma](https://github.com/amansharma703)
 - [Akash Singhal](https://github.com/Akashsinghal1234)
+- [Shivansh Dwivedi] (https://github.com/shivansh-magnus)
 - [Tanuj Kalonia](https://github.com/Tanuj3662)
 - [Ken Durlin](https://github.com/kenthehuman/)
 - [Sanath Raj Petkar](https://github.com/kar108)
